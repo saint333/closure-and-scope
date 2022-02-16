@@ -1,0 +1,11 @@
+{
+  "name": "scope-closure",
+  "version": "1.0.0",
+  "description": "aprendiendo sobre el closure y tipos de scope en js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "David Israel Granados Elias",
+  "license": "ISC"
+}
